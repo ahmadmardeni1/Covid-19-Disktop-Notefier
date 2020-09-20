@@ -10,7 +10,7 @@ make a popup notification with the following :
 - new Covid-19 Deaths
 
 # How it work?
-it is using beautiful soap library in order to scrap a website and take the data from it 
+it is using beautiful soap library in order to make a web scraping for 'worldometers' website 
 then it is using plyer to make the popup notifications
 
 # What do you need to install ?
