@@ -1,4 +1,4 @@
-# Covid-19-Disktop-Notefier
+# Covid19 Desktop Notifier 
 Live updates on COVID-19 Cases and Deaths for your country using a popup notification on desktop
 
 First of all make sure to change "syria" in the Url Request to your country name.
